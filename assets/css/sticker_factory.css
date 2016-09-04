@@ -1,0 +1,9 @@
+#file-select-button{
+	cursor: pointer; cursor: hand;
+	color: #999;
+}
+
+#file-select-button:hover{
+	cursor: pointer; cursor: hand;
+	color: #333;
+}
