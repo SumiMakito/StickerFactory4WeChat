@@ -27,7 +27,7 @@ Makito是一个自由的软件开发者，也是一名在校大学生。
 
 ##### 微信支付
 
-<img src="art/wechatqr.png" width="230">
+<img src="art/wechat_qr.png" width="230">
 
 ##### PayPal
 
