@@ -23,11 +23,11 @@ Makito是一个自由的软件开发者，也是一名在校大学生。
 
 826257232#qq.com (#请换成@)
 
-<img src="art/aliqr.png" width="300">
+<img src="art/aliqr.png" width="230">
 
 ##### 微信支付
 
-<img src="art/wechatqr.png" width="300">
+<img src="art/wechatqr.png" width="230">
 
 ##### PayPal
 
